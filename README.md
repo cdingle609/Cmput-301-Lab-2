@@ -1,10 +1,12 @@
-CMPUT 301: Lab 2 Participation Exercise
-Student Details
-Full Name: Cyrus June Dingle
-CCID: cdingle
-References and Resources
-Google Gemini- Asks about how syntax is used such as mutableState of
-and configuring UI design
+# CMPUT 301: Lab 2 Participation Exercise
 
-Verbal Collaboration
+## Student Details
+- **Full Name:** Cyrus June Dingle
+- **CCID:** cdingle
+
+## References and Resources
+Gemini-Asks how syntax works and how to configure
+UI design
+
+## Verbal Collaboration
 Ada Dai
